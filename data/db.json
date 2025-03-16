@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "id": "6b09",
+      "title": "zdad",
+      "description": "zadadz",
+      "posterUrl": "https://miro.medium.com/v2/resize:fit:800/1*SdXRP8f2Lhin89Tht_GRIA.jpeg",
+      "rating": 6
+    },
+    {
+      "id": "5203",
+      "title": "dazda",
+      "description": "dazdaz",
+      "posterUrl": "https://miro.medium.com/v2/resize:fit:800/1*SdXRP8f2Lhin89Tht_GRIA.jpeg",
+      "rating": 4
+    },
+    {
+      "id": "1eb5",
+      "title": "dazdad",
+      "description": "dazdad",
+      "posterUrl": "https://i.ytimg.com/vi/CoXtvSRpHgM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCMdnXca2wfvYBxfV55OEJqHff1NQ",
+      "rating": 6
+    },
+    {
+      "id": "9303",
+      "title": "zadzada",
+      "description": "dazdazdazdad",
+      "posterUrl": "https://fr.web.img6.acsta.net/img/d8/f9/d8f9832c22dfd2d6429722e5bc3d318f.jpg",
+      "rating": 9
+    },
+    {
+      "id": "b5d5",
+      "title": "opa",
+      "description": "dadza",
+      "posterUrl": "https://miro.medium.com/v2/resize:fit:800/1*SdXRP8f2Lhin89Tht_GRIA.jpeg",
+      "rating": 6
+    },
+    {
+      "id": "58aa",
+      "title": "hello",
+      "description": "dazdazd4",
+      "posterUrl": "https://miro.medium.com/v2/resize:fit:800/1*SdXRP8f2Lhin89Tht_GRIA.jpeg",
+      "rating": 4
+    }
+  ]
+}
